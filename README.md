@@ -1,8 +1,8 @@
 # wxk-project4
 ![2](https://github.com/stream00/wxk-project4/blob/main/2.jpg)
-![2j1]（https://github.com/stream00/wxk-project4/blob/main/2j1.jpg）
-![2j2]（https://github.com/stream00/wxk-project4/blob/main/2j2.jpg）
-![2j3]（https://github.com/stream00/wxk-project4/blob/main/2j3.jpg）
+![2j1](https://github.com/stream00/wxk-project4/blob/main/2j1.jpg)
+![2j2](https://github.com/stream00/wxk-project4/blob/main/2j2.jpg)
+![2j3](https://github.com/stream00/wxk-project4/blob/main/2j3.jpg)
 ```java
 PImage img;
 int n=1080*969;
@@ -45,9 +45,9 @@ void draw() {
 ```
 
 ![3](https://github.com/stream00/wxk-project4/blob/main/3.jpg)
-![3j1]（https://github.com/stream00/wxk-project4/blob/main/3j1.jpg）
-![3j2]（https://github.com/stream00/wxk-project4/blob/main/3j2.jpg）
-![3j3]（https://github.com/stream00/wxk-project4/blob/main/3j3.jpg）
+![3j1](https://github.com/stream00/wxk-project4/blob/main/3j1.jpg)
+![3j2](https://github.com/stream00/wxk-project4/blob/main/3j2.jpg)
+![3j3](https://github.com/stream00/wxk-project4/blob/main/3j3.jpg)
 ```java
 //用粒子系统，截取像素点的颜色，并用rgb与brightness控制速度与角度，最后利用颜色“冷远暖近”的特性创造出空间感
 PImage img;
